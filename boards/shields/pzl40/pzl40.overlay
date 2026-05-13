@@ -13,7 +13,7 @@
 
         // 12 columns — wire your column diode outputs to these pins
         col-gpios =
-            <&gpio0 6  GPIO_ACTIVE_HIGH>,   // D1  / P0.06
+            <&gpio0 9  GPIO_ACTIVE_HIGH>,   // D10 / P0.06
             <&gpio0 8  GPIO_ACTIVE_HIGH>,   // D0  / P0.08
             <&gpio1 0  GPIO_ACTIVE_HIGH>,   // D6  / P1.00
             <&gpio0 11 GPIO_ACTIVE_HIGH>,   // D7  / P0.11
