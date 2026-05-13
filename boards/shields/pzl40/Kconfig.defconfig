@@ -1,0 +1,6 @@
+if SHIELD_PZL40
+
+config ZMK_KEYBOARD_NAME
+    default "pzl40"
+
+endif # SHIELD_PZL40
