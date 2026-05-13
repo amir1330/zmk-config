@@ -17,4 +17,4 @@ features:
   - studio # Remove this line if your keyboard will not support ZMK Studio
 
 requires:
-  - nice_nano
+  - nice_nano_v2
