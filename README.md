@@ -1,5 +1,5 @@
 # PZL.40 unibody 40 key handwired keyboard
 
-# keymap
+## keymap
 
-/extra/images/keymap.png
+![keymap png](extra/images/keymap.png)
